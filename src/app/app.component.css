@@ -1,0 +1,90 @@
+#tittle{
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+}
+
+#tag{
+    font-size: 18px;
+    color: coral;
+}
+
+#categories{
+    margin-top: 45px;
+}
+
+.addButton{
+    position: fixed;
+    top: 145px;
+    right: 20px;
+    z-index: 1;
+}
+
+.fs25{
+    font-size: 25px;;
+}
+
+.btnRad {
+    display:block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.mt10{
+    margin-top: 10px;
+}
+
+.mt20{
+    margin-top: 20px;
+}
+
+.mt30{
+    margin-top: 30px;
+}
+
+.mt45{
+    margin-top: 45px;
+}
+
+
+
+.mb30{
+    margin-bottom: 30px;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
+.ml20 {
+    margin-left: 20px;
+}
+
+.ml30 {
+    margin-left: 30px;
+}
+
+.ml40 {
+    margin-left: 40px;
+}
+
+.mr10 {
+    margin-right: 10px;
+}
+
+.mr20 {
+    margin-right: 20px;
+}
+
+.mr30 {
+    margin-right: 30px;
+}
+
+.mr40 {
+    margin-right: 40px;
+}
+
+.justify-text{
+    text-align: justify;
+}
