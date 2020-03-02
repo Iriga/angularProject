@@ -25,7 +25,7 @@ export class AppComponent {
         "para definir atributos y métodos nuevos para la subclase"+
         "que luego se aplican a los atributos y métodos heredados.",
         category: "framework",
-        image: "https://i.picsum.photos/id/1041/5184/2916.jpg"
+        image: "https://i.picsum.photos/id/0/1080/720.jpg"
     }
 
     angular:Post ={
@@ -38,7 +38,7 @@ export class AppComponent {
         "para definir atributos y métodos nuevos para la subclase"+
         "que luego se aplican a los atributos y métodos heredados.",
         category: "framework",
-        image: "https://i.picsum.photos/id/1041/5184/2916.jpg"
+        image: "https://i.picsum.photos/id/0/1080/720.jpg"
     }
 
     public allList = [];
