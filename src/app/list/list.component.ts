@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Post } from '../post';
-import { PostList } from '../post-list';
 import { AppComponent } from '../app.component';
 import { isNgTemplate } from '@angular/compiler';
 

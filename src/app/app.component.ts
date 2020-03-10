@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { PostList } from './post-list';
 import { Post } from './post';
 
 @Component({
@@ -15,7 +14,7 @@ export class AppComponent {
     public categories = ["All", "Travel", "Lifestyle", "Business", "Food", "Work"];
     public list = [];
 
-    react:Post ={
+    react:Post = {
         tittle:"React",
         comments: 5,
         description:"La herencia es específica de la programación orientada a objetos, donde una clase nueva se crea a"+
@@ -59,6 +58,7 @@ export class AppComponent {
                 this.getAll(this.businessList);
                 this.getAll(this.foodList);
                 this.getAll(this.workList);
+                // this.list = [...this.travelList, ...this.lifestyleList]
                 break;
             case "Travel":
                 this.list = this.travelList;
